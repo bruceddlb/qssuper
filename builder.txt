@@ -1,0 +1,5 @@
+打包成jar包
+cmd 定位到目录执行 
+打包命令：mvn clean package
+路径
+D:\01workspace\javaworkspace\qssuper

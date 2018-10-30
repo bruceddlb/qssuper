@@ -1,0 +1,7 @@
+com\qssuper\generator\mapper\GenMapper.class
+com\qssuper\generator\util\VelocityInitializer.class
+com\qssuper\generator\domain\ColumnInfo.class
+com\qssuper\generator\util\GenUtils.class
+com\qssuper\generator\service\impl\GenServiceImpl.class
+com\qssuper\generator\domain\TableInfo.class
+com\qssuper\generator\service\IGenService.class
